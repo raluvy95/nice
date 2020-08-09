@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    font-family: sans-serif;
+}
+.num {
+    font-size: 40px;
+    color: rgb(0, 113, 179)
+}
+
+.title {
+    font-size: 120px;
+    background:  linear-gradient(to right, rgba(73,155,234,1) 0%, rgba(41,91,138,1) 62%, rgba(32,124,229,1) 100%);;
+    color: transparent;
+    background-clip: text;
+}
